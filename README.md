@@ -35,4 +35,4 @@ If you'd like to suggest improvements or report issues, feel free to open an iss
 ## 🧠 Author
 
 Maintained by Aryan Jaiswal 
-[GitHub Profile](https://github.com/your-AryanJaiswal763)
+https://github.com/AryanJaiswal763
