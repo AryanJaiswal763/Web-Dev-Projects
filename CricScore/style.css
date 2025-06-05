@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.game {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #fafafa;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.teams {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.team {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: bold;
+}
+
+.team img {
+  height: 40px;
+  width: 40px;
+}
+
+.inning-table {
+  overflow-x: auto;
+  margin-top: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  text-align: center;
+}
+
+
