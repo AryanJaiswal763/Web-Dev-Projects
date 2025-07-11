@@ -6,7 +6,8 @@ This repository serves as a portfolio of practical and creative front-end projec
 ## 📁 Projects
 
 - `BaseBallScore` – A real-time MLB live score tracker using public API and front-end tools only.
-- `Tic Tac Toe`- A fun game to play when you are bored, using html,css & javascript
+- `Tic Tac Toe`- A fun game to play when you are bored, using html,css & javascript.
+- `User Management`- A portal where user logs can be stored, updated, edited and deleted.
 
 _More projects will be added soon... Stay tuned!_
 
