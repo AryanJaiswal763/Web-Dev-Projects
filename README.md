@@ -16,6 +16,7 @@ _More projects will be added soon... Stay tuned!_
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Python
 - REST APIs (for live data where applicable)
 
 ## 📌 Purpose
